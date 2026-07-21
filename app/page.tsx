@@ -4,7 +4,7 @@ import Link from "next/link";
 import { lusitana } from "@/app/ui/fonts";
 import Image from "next/image";
 
-// ghstack test: commit 2
+// ghstack test: commit 3
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col p-6">
