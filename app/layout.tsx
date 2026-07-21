@@ -1,7 +1,7 @@
 import "@/app/ui/global.css";
 import { inter } from "@/app/ui/fonts";
 
-// ghstack test: commit 1
+// ghstack test: commit 2
 
 export default function RootLayout({
   children,
